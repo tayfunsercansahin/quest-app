@@ -1,6 +1,3 @@
-# quest-app
-Quest App
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,9 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-![Quest App](https://github.com/tayfunsercansahin/quest-app/assets/82944149/a6b043db-4b37-42e6-a16f-3161f9ed881e)
-
-![Quest App2](https://github.com/tayfunsercansahin/quest-app/assets/82944149/0f74c6a2-5e93-42c6-9a90-734b5560345c)
-
-
